@@ -103,3 +103,16 @@ nav li {
     font-size: 20px;
     
  }
+ .my-skills{
+    margin-top: 130px;
+ }
+ .skills-container{
+    display: flex;
+ }
+ .skill-title{
+    font-weight: 700;
+    font-size: 16px;
+ }
+ .skill-des{
+    color: black;
+ }
